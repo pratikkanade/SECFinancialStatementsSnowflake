@@ -6,3 +6,6 @@ requests
 boto3
 python-dotenv
 numpy
+streamlit
+uvicorn
+fastapi
