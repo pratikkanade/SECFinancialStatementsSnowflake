@@ -1,5 +1,6 @@
 apache-airflow-providers-snowflake
 apache-airflow-providers-amazon
+dbt-snowflake
 bs4
 pandas
 requests
