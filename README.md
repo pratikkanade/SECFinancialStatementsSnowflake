@@ -9,6 +9,7 @@ This project automates the extraction, transformation, and storage of SEC Financ
 The system follows a structured approach:
 
 Data Extraction → Scrape SEC datasets from the Markets Data page.
+
 Data Storage → Process data into three formats: Raw Staging, JSON Transformation, Denormalized Fact Tables.
 
 Data Transformation → Use DBT for schema validation, data integrity, and transformation logic.
